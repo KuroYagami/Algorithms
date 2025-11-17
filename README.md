@@ -1,6 +1,3 @@
-You're right. When you copy-paste formatted text (like the tables, emojis, and specific markdown styles I used) into a plain text environment like some parts of GitHub (e.g., commit messages or basic descriptions), the formatting can break or look messy.
-
-To make it look "nice" in a standard GitHub **README.md** file, the formatting needs to be **pure Markdown** so GitHub renders it correctly. Here is the output, using only strict Markdown features that will look clean and structured on GitHub.
 
 -----
 
